@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(169, 204, 169);
+}
+.container{
+    margin: 5rem;
+    text-align: center;
+}
+p{
+    margin: 1rem;
+}
+.disclaimer{
+    font-size: 0.8rem;
+}
